@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|k:\\uit\\hkiv\\ltmcb\\labs\\lab4\\network-lab4\\webapiservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|k:\\uit\\hkiv\\ltmcb\\labs\\lab4\\network-lab4\\webapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|k:\\uit\\hkiv\\ltmcb\\labs\\lab4\\network-lab4\\webapiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DCC5A-B073-4482-846E-8B10273A2237}|WebAPIService.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:03:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:03:05.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "K:\\UIT\\HKIV\\ltmcb\\Labs\\Lab4\\Network-Lab4\\WebAPIService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:02:58.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
